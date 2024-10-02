@@ -1,0 +1,27 @@
+#en{
+    width: 1300;
+    height: 600;
+ 
+}
+.back{
+    background-color: black;
+}
+h1{
+    font-size: 90;
+    top: 250px;;
+    position: relative;
+}
+@font-face {
+    font-family:"yekan";
+    src: url(./Far_Yekan.ttf);
+}
+
+.font{
+    color: white;
+    font-family: "yekan";
+    
+}
+#div2{
+    text-align: center;
+    font-family:sans-serif;
+}
